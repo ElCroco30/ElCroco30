@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ElCroco30
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on web development.
+- 💞️ I’m looking to collaborate on web design.
 - 📫 How to reach me:+245742241877
   
 
